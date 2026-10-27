@@ -8,6 +8,6 @@ public class MobilBeraksi {
         mobilku.tahunProduksi = 2006;
 
         System.out.println("Warna: " + mobilku.warna);
-        System.out.println("Tahun: " + mobilku.tahunProduksi);
+        System.out.println("Tahun Produksi: " + mobilku.tahunProduksi);
     }
 }
